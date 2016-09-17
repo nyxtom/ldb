@@ -1,9 +1,9 @@
 {
-  "name": "ldb-repl",
+  "name": "leveldb-repl",
   "version": "1.0.0",
-  "description": "ldb is a simple command line utility for leveldb databases",
+  "description": "leveldb-repl is a simple node repl / command line utility for leveldb databases",
   "main": "index.js",
-  "bin": "./bin/ldb-repl",
+  "bin": "./bin/leveldb-repl",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
