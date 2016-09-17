@@ -1,9 +1,9 @@
 {
-  "name": "ldb",
+  "name": "ldb-repl",
   "version": "1.0.0",
   "description": "ldb is a simple command line utility for leveldb databases",
   "main": "index.js",
-  "bin": "./bin/ldb",
+  "bin": "./bin/ldb-repl",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -15,7 +15,8 @@
     "ldb",
     "leveldb",
     "cli",
-    "node"
+    "node",
+    "repl"
   ],
   "author": "Thomas Holloway <nyxtom@gmail.com>",
   "license": "MIT",

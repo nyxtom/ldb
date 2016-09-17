@@ -5,7 +5,7 @@ Simple command line repl for leveldb databases
 ## Installation
 
 ```
-npm install -g ldb
+npm install -g ldb-repl
 ```
 
 ## Usage
@@ -13,7 +13,7 @@ npm install -g ldb
 If you have a leveldb database, simply load the utility with:
 
 ```
-ldb ~/mydatabase.ldb
+ldb-repl ~/mydatabase.ldb
 ```
 
 The directory above is the name of the directory for the leveldb database.
