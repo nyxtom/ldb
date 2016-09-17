@@ -1,1 +1,1 @@
-require('./lib/leveldb-repl');
+require('./lib/leveldown-repl');

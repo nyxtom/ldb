@@ -1,9 +1,9 @@
 {
-  "name": "leveldb-repl",
+  "name": "leveldown-repl",
   "version": "1.0.0",
-  "description": "leveldb-repl is a simple node repl / command line utility for leveldb databases",
+  "description": "leveldown-repl is a simple node repl / command line utility for leveldb databases",
   "main": "index.js",
-  "bin": "./bin/leveldb-repl",
+  "bin": "./bin/leveldown-repl",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },

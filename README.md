@@ -1,22 +1,22 @@
-# leveldb-repl
+# leveldown-repl
 
 Simple command line repl for leveldb databases
 
 ## Installation
 
 ```
-npm install -g leveldb-repl
+npm install -g leveldown-repl
 ```
 
 ## Usage
 
-If you have a leveldb database, simply load the utility with:
+If you have a levelup backed by leveldown (leveldb) database, simply load the utility with:
 
 ```
-leveldb-repl ~/mydatabase.ldb
+leveldown-repl ~/mydatabase.ldb
 ```
 
-The directory above is the name of the directory for the leveldb database.
+The directory above is the name of the directory for the leveldown leveldb database.
 
 
 ## Help/commands
