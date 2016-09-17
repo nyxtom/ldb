@@ -26,21 +26,21 @@ available within this utility by using the `.help` `.` prefixed command syntax.
 
 ```
 /Users/nyxtom/_data.ldb> .help
-break	Sometimes you get stuck, this gets you out
-clear	Break, and also clear the local context
-count	count: show the number of records in the database
-del	del: removes a key from the leveldb database
-editor	Entering editor mode (^D to finish, ^C to cancel)
-exit	Exit the repl
-get	get: obtains the value of the given key from the database
-help	Show repl options
-keys	keys: show the list of keys in the database
-load	Load JS from a file into the REPL session
-save	Save all evaluated commands in this REPL session to a file
-size	size: show the total size in bytes of the database
-sstables	sstables: obtains the leveldb sstables
-stats	stats: obtains the leveldb stats from the underlying database
-values	Show the list of values in the leveldb database
+break	 Sometimes you get stuck, this gets you out
+clear	 Break, and also clear the local context
+count	 show the number of records in the database
+del	     removes a key from the leveldb database
+editor	 Entering editor mode (^D to finish, ^C to cancel)
+exit	 Exit the repl
+get	     obtains the value of the given key from the database
+help	 Show repl options
+keys	 show the list of keys in the database
+load	 Load JS from a file into the REPL session
+save	 Save all evaluated commands in this REPL session to a file
+size	 show the total size in bytes of the database
+sstables obtains the leveldb sstables
+stats	 obtains the leveldb stats from the underlying database
+values	 show the list of values in the leveldb database
 ```
 
 ## LICENCE
